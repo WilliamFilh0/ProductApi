@@ -3,11 +3,14 @@ Objetivo:
 Criar uma Api REstFull para controle de produtos
 
 
-Modelo Ok
+Modelo: Ok
    Produto: id, nome, quantidade, valor, observação
 
-Repositorio de usuário Ok
+Repositorio de usuário: Ok
    obterTodos, obterPorId, adicionar, atualizar, deletar.
 
-Serviço de Produto: 
+Serviço de Produto: Ok 
+   obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+Controller de produto: Ok
    obterTodos, obterPorId, adicionar, atualizar, deletar.
